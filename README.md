@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# Checkout the Live Website
+[Live Link (Deployed on Netlify)](https://rad-speculoos-cbc37d.netlify.app/)
 
+# Getting Started with Create React App
 This React JS Live Dashboard project is initiated using [Create React App](https://github.com/facebook/create-react-app).
 
 ## React JS Live DACP Dashboard for OpenMesh Hackathon
